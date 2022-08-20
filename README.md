@@ -62,6 +62,4 @@
 Given a directed graph G=(V, E), implement Depth-First-Search (DFS). Your program should invoke DFS_VISIT(u) for any vertex u.  Show some intermediate outputs as well. [C code](https://github.com/akansha2001/Data-Structures-and-Algorithms/blob/main/DFS.c)
 ---
 
-
-
-
+Find all codes and outputs [here](https://github.com/akansha2001/Data-Structures-and-Algorithms/blob/main/AllAssignments.docx).
